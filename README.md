@@ -7,6 +7,6 @@ Ao todo já são mais de dez projetos, sendo sete de sua autoria e três contrib
 # Premiações 
 Até aqui Eliomar Sant'Anna possuí mais de cinco premiações, sendo uma medalha como projeto destaque, certificado mega hack, aprovado para o Cubo for Devs do Cubo Itaú, certificado ominstack entre outros.
 # Contribuições 
-Be The Hero - Rocketseat 
-Proffy - Rocketseat 
+Be The Hero - Rocketseat /
+Proffy - Rocketseat /
 Resposta Rápida - Olist
